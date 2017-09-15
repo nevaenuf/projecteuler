@@ -17,6 +17,7 @@
 
     multiply all added factors together
 
+    see https://en.wikipedia.org/wiki/Prime_factor
 *)
 
 namespace NED.ProjectEuler.Problems
