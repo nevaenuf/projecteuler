@@ -39,15 +39,15 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-   <Compile Include="utility.fs" />
+    <Compile Include="utility.fs" />
     <Compile Include="problem1.fs" />
     <Compile Include="problem1_alternative.fs" />
     <Compile Include="problem2.fs" />
     <Compile Include="problem3.fs" />
     <Compile Include="problem4.fs" />
+    <Compile Include="problem5.fs" />
     <Compile Include="ProjectEuler.fs" />
     <None Include="App.config" />
-   
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <Choose>
